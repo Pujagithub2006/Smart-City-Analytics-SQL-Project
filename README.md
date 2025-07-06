@@ -76,7 +76,7 @@ smart-city-sql-analytics/
 ├── ERD/erd_diagram.png            # Entity-Relationship Diagram
 ├── OUTPUT/sample_output/          # Screenshots & query results
 ├── README.md                      # Project guide and overview
-
+```
 ---
 
 ## 💡 Tools Used
