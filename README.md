@@ -70,11 +70,12 @@ Some of the valuable business insights derived include:
 ---
 
 ## 📂 Project Structure
+```
 smart-city-sql-analytics/
-├── SQL/schema_and_queries.sql # CREATE + INSERT scripts
-├── ERD/erd_diagram.png # Entity-Relationship Diagram
-├── OUTPUT/sample_output/ # Screenshots & query results
-├── README.md # Project guide and overview
+├── SQL/schema_and_queries.sql     # CREATE + INSERT scripts
+├── ERD/erd_diagram.png            # Entity-Relationship Diagram
+├── OUTPUT/sample_output/          # Screenshots & query results
+├── README.md                      # Project guide and overview
 
 ---
 
