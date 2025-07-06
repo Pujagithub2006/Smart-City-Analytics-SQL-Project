@@ -82,7 +82,7 @@ smart-city-sql-analytics/
 ## 💡 Tools Used
 - **PostgreSQL** with **pgAdmin**  
 - **DrawSQL** for ERD diagram  
-- **VS Code / Notepad++** for scripting  
+- **VS Code** for scripting  
 - **Git** and **GitHub** for version control  
 
 ---
@@ -104,7 +104,7 @@ smart-city-sql-analytics/
 2. Integrate Python + SQL pipeline
 
 ## 👉 Connect
-Feel free to connect with me on LinkedIn to explore, collaborate, or share feedback!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/puja-nikam-706176285/) to explore, collaborate, or share feedback on this project!
 
 Thank you for visiting!
 This project reflects hands-on practice and a passion for SQL development through a meaningful smart city use case. 🚀
