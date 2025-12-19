@@ -1,4 +1,5 @@
 # Smart City Analytics: SQL Project
+SQL-based project provides deep insights into urban city data using advanced SQL techniques.
 
 ## 🔹 Project Overview
 This SQL-based project provides deep insights into urban city data using advanced SQL techniques. The goal is to analyze multiple aspects of a smart city like citizen details, electricity usage, healthcare visits, public feedback, and transport usage. The project is structured into levels, covering from basic to advanced SQL topics including:
