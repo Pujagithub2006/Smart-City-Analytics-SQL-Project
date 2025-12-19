@@ -1,6 +1,6 @@
 # Smart City Analytics: SQL Project
 
-## 🌟 Project Overview
+## 🔹 Project Overview
 This SQL-based project provides deep insights into urban city data using advanced SQL techniques. The goal is to analyze multiple aspects of a smart city like citizen details, electricity usage, healthcare visits, public feedback, and transport usage. The project is structured into levels, covering from basic to advanced SQL topics including:
 
 - Joins and aggregations  
@@ -11,7 +11,7 @@ This SQL-based project provides deep insights into urban city data using advance
 
 ---
 
-## 📊 Datasets and Tables
+## 🔹 Datasets and Tables
 The project involves **6 normalized tables** representing key smart city domains:
 
 1. **city_area** – Master data for city zones and areas  
@@ -55,7 +55,7 @@ Entity-Relationship Diagram (ERD) is included in the repo for better understandi
 
 ---
 
-## 💰 Sample High-Impact Insights
+## 🔹 Sample High-Impact Insights
 Some of the valuable business insights derived include:
 
 - Citizens with highest healthcare expenses  
@@ -69,7 +69,7 @@ Some of the valuable business insights derived include:
 
 ---
 
-## 📂 Project Structure
+## 🔹 Project Structure
 ```
 smart-city-sql-analytics/
 ├── SQL/schema_and_queries.sql     # CREATE + INSERT scripts
@@ -79,7 +79,7 @@ smart-city-sql-analytics/
 ```
 ---
 
-## 💡 Tools Used
+## 🔹 Tools Used
 - **PostgreSQL** with **pgAdmin**  
 - **DrawSQL** for ERD diagram  
 - **VS Code** for scripting  
@@ -87,7 +87,7 @@ smart-city-sql-analytics/
 
 ---
 
-## 🎨 How to Use
+## 🔹 How to Use
 1. Clone the repo:
    ```bash
    git clone https://github.com/Pujagithub2006/Smart-City-Analytics-SQL-Project
@@ -98,12 +98,12 @@ smart-city-sql-analytics/
 
 4. Refer to ERD and output screenshots to understand schema and 
 
-## 🚀 What’s Next?
+## 🔹 What’s Next?
 1. Build a Power BI or Tableau dashboard
 
 2. Integrate Python + SQL pipeline
 
-## 👉 Connect
+## 🔹 Connect
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/puja-nikam-706176285/) to explore, collaborate, or share feedback on this project!
 
 Thank you for visiting!
