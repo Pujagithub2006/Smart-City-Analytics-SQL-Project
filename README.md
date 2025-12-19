@@ -1,4 +1,4 @@
-# Smart City Analytics: SQL Project
+# 🌆 Smart City Analytics: SQL Project
 SQL-based project provides deep insights into urban city data using advanced SQL techniques.
 
 ## 🔹 Project Overview
